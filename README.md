@@ -119,7 +119,7 @@ Calculation Details:
 - Step 1: ENIs × (IPs per ENI - 1) = 3 × (10 - 1)
 - Step 2: Add 2 for system overhead
 - Final calculation: 3 × (10 - 1) + 2 = 29
-```
 
 Important Note:
 The actual available pod capacity may be lower due to system-reserved pods.
+```
